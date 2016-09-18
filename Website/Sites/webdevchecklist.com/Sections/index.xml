@@ -48,6 +48,8 @@
     <rule name="Uptime monitoring">
       <link url="http://www.uptimerobot.com/">Uptime robot</link>
       <link url="http://www.gotsitemonitor.com/">GotSiteMonitor.com</link>
+      <link url="https://www.statuscake.com/">StatusCake.com</link>
+      <link url="https://www.pingdom.com/">Pingdom</link>
     </rule>
     <rule name="Traffic analysis">
       <link url="http://www.google.com/analytics">Google Analytics</link>
